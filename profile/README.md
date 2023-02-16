@@ -12,3 +12,5 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+[What is Sector#3?](https://github.com/orgs/sector-3/discussions/5#discussioncomment-4995029)
