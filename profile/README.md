@@ -1,6 +1,6 @@
 ## Do DAOs Dream of Electric Sheep?
 
-[![background](https://user-images.githubusercontent.com/95955389/204759288-84e3bf7d-ce55-4f33-aaa0-bb28c68f2a2b.png)](https://goerli.sector3.xyz)
+[![sheep](https://user-images.githubusercontent.com/95955389/226295823-f4906c64-0182-4322-bf3c-a478f5120ddc.jpeg)](https://goerli.sector3.xyz)
 
 <!--
 
